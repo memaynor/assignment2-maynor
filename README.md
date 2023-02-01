@@ -25,3 +25,10 @@ This table is a few countries I recommend people visit
 | Japan | Cool atmosphere | A week |
 | Italy | Architecture and food | A month at least |
 | Australia | I just thinks its cool | A week ish |
+
+---
+
+### Quotes
+> "(...)normalcy is an illusion. Each person is utterly unique. A standard of normalcy is something that most people of the world simply will never access." *Colleen Houck*
+> "For God so loved the world that He gave his one and only Son, that whoever believes in Him shall not perish but have eternal life." *John the Apostle*
+
