@@ -30,5 +30,6 @@ This table is a few countries I recommend people visit
 
 ### Quotes
 > "(...)normalcy is an illusion. Each person is utterly unique. A standard of normalcy is something that most people of the world simply will never access." *Colleen Houck*
+>
 > "For God so loved the world that He gave his one and only Son, that whoever believes in Him shall not perish but have eternal life." *John the Apostle*
 
